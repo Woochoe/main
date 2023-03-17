@@ -1,0 +1,9 @@
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/Woochoe/sub1
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/Woochoe/sub2
+[submodule "sub3"]
+	path = sub3
+	url = https://github.com/Woochoe/sub3
